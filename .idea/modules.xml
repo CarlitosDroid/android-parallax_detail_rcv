@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ParallaxDetailRCV.iml" filepath="$PROJECT_DIR$/ParallaxDetailRCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-parallax_detail_rcv.iml" filepath="$PROJECT_DIR$/android-parallax_detail_rcv.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
