@@ -14,6 +14,7 @@ import java.util.List;
 
 /**
  * Created by Carlos Leonardo Camilo Vargas Huamán on 3/6/17.
+ *
  */
 
 public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ItemViewHolder>{
@@ -43,11 +44,21 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ItemViewHolder
 
     @Override
     public void onBindViewHolder(ItemViewHolder holder, int position) {
-//        if(objectList.get(position).isFavorite()){
-//            holder.lbvFavorite.setImageResource(R.drawable.ic_star_blue_500_24dp);
-//        }else{
-//            holder.lbvFavorite.setImageResource(R.drawable.ic_star_border_blue_500_24dp);
-//        }
+        switch (holder.getItemViewType()){
+            case TYPE_HEADER:
+                break;
+            case TYPE_ITEM:
+                if(objectList.get(position).isFavorite()){
+                    ((ItemViewHolder)holder).lblTest.setText("hola");
+                }else{
+                    //((ItemViewHolder)holder).lbvFavorite.setImageResource(R.drawable.ic_star_border_blue_500_24dp);
+                }
+
+                break;
+            default:
+                break;
+        }
+
     }
 
     @Override
