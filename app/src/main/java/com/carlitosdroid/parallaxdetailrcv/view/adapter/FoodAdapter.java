@@ -19,15 +19,12 @@ import java.util.List;
 
 public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ItemViewHolder>{
 
-    private final MainActivity activity;
-
     private List<FoodEntity> objectList;
 
     private static final int TYPE_HEADER = 0;
     private static final int TYPE_ITEM = 1;
 
     public FoodAdapter(MainActivity activity, List<FoodEntity> objectList) {
-        this.activity = activity;
         this.objectList = objectList;
     }
 
@@ -49,7 +46,7 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ItemViewHolder
                 break;
             case TYPE_ITEM:
                 if(objectList.get(position).isFavorite()){
-                    ((ItemViewHolder)holder).lblTest.setText("hola");
+                    ((ItemViewHolder)holder).lblTest.setText("Android");
                 }else{
                     //((ItemViewHolder)holder).lbvFavorite.setImageResource(R.drawable.ic_star_border_blue_500_24dp);
                 }
