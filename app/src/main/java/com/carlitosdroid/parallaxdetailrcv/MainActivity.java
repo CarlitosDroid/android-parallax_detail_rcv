@@ -11,18 +11,16 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.carlitosdroid.parallaxdetailrcv.model.FoodEntity;
-import com.carlitosdroid.parallaxdetailrcv.view.adapter.FoodAdapter;
+import com.carlitosdroid.parallaxdetailrcv.model.CandyEntity;
+import com.carlitosdroid.parallaxdetailrcv.view.adapter.CandyAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-
     RecyclerView rcvFood;
-    private FoodAdapter favoriteAdapter;
-    private List<FoodEntity> objectList = new ArrayList<>();
+    private List<CandyEntity> objectList = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(false);
 
         rcvFood = (RecyclerView) findViewById(R.id.rcvFood);
         rcvFood.setHasFixedSize(true);
@@ -39,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
         initData();
 
-        favoriteAdapter = new FoodAdapter(this, objectList);
+        CandyAdapter favoriteAdapter = new CandyAdapter(this, objectList);
         rcvFood.setAdapter(favoriteAdapter);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -53,9 +51,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData(){
-        for (int i = 0; i < 20; i++) {
-            objectList.add(new FoodEntity(true));
-        }
+        objectList.add(new CandyEntity(true, "CustomCollapsingToolbar"));
+        objectList.add(new CandyEntity(true, "ImageCollapsingToolbar"));
+        objectList.add(new CandyEntity(true, "Kitkat"));
+        objectList.add(new CandyEntity(true, "Marshmallow"));
+        objectList.add(new CandyEntity(true, "Nougat"));
+        objectList.add(new CandyEntity(true, "Oreo"));
+        objectList.add(new CandyEntity(true, "Jelly Bean"));
+
     }
 
     @Override

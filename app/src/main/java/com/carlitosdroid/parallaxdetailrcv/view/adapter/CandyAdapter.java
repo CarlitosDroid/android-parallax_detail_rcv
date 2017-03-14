@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 
 import com.carlitosdroid.parallaxdetailrcv.MainActivity;
 import com.carlitosdroid.parallaxdetailrcv.R;
-import com.carlitosdroid.parallaxdetailrcv.model.FoodEntity;
+import com.carlitosdroid.parallaxdetailrcv.model.CandyEntity;
 
 import java.util.List;
 
@@ -17,14 +17,14 @@ import java.util.List;
  *
  */
 
-public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ItemViewHolder>{
+public class CandyAdapter extends RecyclerView.Adapter<CandyAdapter.ItemViewHolder>{
 
-    private List<FoodEntity> objectList;
+    private List<CandyEntity> objectList;
 
     private static final int TYPE_HEADER = 0;
     private static final int TYPE_ITEM = 1;
 
-    public FoodAdapter(MainActivity activity, List<FoodEntity> objectList) {
+    public CandyAdapter(MainActivity activity, List<CandyEntity> objectList) {
         this.objectList = objectList;
     }
 
@@ -46,7 +46,7 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ItemViewHolder
                 break;
             case TYPE_ITEM:
                 if(objectList.get(position).isFavorite()){
-                    ((ItemViewHolder)holder).lblTest.setText("Android");
+                    ((ItemViewHolder)holder).lblTest.setText((objectList.get(position)).getTitle());
                 }else{
                     //((ItemViewHolder)holder).lbvFavorite.setImageResource(R.drawable.ic_star_border_blue_500_24dp);
                 }
