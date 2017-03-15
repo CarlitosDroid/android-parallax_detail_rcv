@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_arrow_back_white.png",
+        "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/drawable-hdpi/ic_arrow_back_white.png"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_android.png",
+        "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/drawable-hdpi/bg_android.png"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_message_white.png",
+        "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/drawable-hdpi/ic_message_white.png"
+    }
+]

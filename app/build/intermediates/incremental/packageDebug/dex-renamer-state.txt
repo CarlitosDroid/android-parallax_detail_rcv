@@ -1,0 +1,4 @@
+#Tue Mar 14 17:57:59 PET 2017
+base.0=/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

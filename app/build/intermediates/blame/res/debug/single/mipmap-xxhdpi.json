@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

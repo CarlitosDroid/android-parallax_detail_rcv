@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/carlosleonardocamilo/.android/build-cache/8a651b02360c53cf5c846e392c4ea93527e15330/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/pre-dexed/debug/classes_e6adc22cab354550fb7c34240c4e5532d1e49fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosleonardocamilo/.android/build-cache/239804793cc2fcf90bd8d9ee78d352524d06c3b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/pre-dexed/debug/classes_d3bae9fbebcdc5e6897daed4292ce594dd61c891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/pre-dexed/debug/classes_83da1964c21b5b6ab6fc16106951e1de6dc0acd1.jar" />
+    </item>
+
+</items>
