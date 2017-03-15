@@ -16,6 +16,10 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
@@ -24,11 +28,39 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/drawable-v21/avd_show_password.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/drawable-v21/design_password_eye.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-v21/notification_action_background.xml"
     }
 ]

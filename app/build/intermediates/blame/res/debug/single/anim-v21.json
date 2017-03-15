@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",

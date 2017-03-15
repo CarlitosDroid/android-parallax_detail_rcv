@@ -2,5 +2,9 @@
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

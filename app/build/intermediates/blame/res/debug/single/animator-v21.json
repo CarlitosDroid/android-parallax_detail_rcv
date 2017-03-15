@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/animator-v21/design_appbar_state_list_animator.xml"
     }

@@ -8,6 +8,18 @@
         "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/drawable-xhdpi/ic_message_white.png"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_arrow_back_white.png",
+        "source": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/src/main/res/drawable-xhdpi/ic_arrow_back_white.png"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_message_white.png",
+        "source": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/src/main/res/drawable-xhdpi/ic_message_white.png"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xhdpi/bg_android.png",
+        "source": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/src/main/res/drawable-xhdpi/bg_android.png"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_arrow_back_white.png",
         "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/drawable-xhdpi/ic_arrow_back_white.png"
     }

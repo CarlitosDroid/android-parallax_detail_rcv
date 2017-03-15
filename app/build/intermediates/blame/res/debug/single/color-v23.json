@@ -4,8 +4,20 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/carlos/.android/build-cache/448f0a8750f369a26577e92823363ead8e27649c/output/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
@@ -20,6 +32,14 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
@@ -28,8 +48,16 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
@@ -40,7 +68,23 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/color-v23/abc_tint_edittext.xml"
     }
 ]
