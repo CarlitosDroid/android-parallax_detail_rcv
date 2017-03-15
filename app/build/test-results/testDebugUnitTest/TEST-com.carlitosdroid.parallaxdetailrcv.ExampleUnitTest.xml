@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.carlitosdroid.parallaxdetailrcv.ExampleUnitTest" tests="4" skipped="0" failures="1" errors="0" timestamp="2017-03-14T23:00:04" hostname="Ricardos-iMac.local" time="0.002">
+<testsuite name="com.carlitosdroid.parallaxdetailrcv.ExampleUnitTest" tests="4" skipped="0" failures="1" errors="0" timestamp="2017-03-15T16:57:17" hostname="carlos-ubuntu" time="0.002">
   <properties/>
-  <testcase name="addition_isCorrect1" classname="com.carlitosdroid.parallaxdetailrcv.ExampleUnitTest" time="0.0"/>
+  <testcase name="addition_isCorrect1" classname="com.carlitosdroid.parallaxdetailrcv.ExampleUnitTest" time="0.001"/>
   <testcase name="addition_isCorrect2" classname="com.carlitosdroid.parallaxdetailrcv.ExampleUnitTest" time="0.0"/>
   <testcase name="addition_isCorrect3" classname="com.carlitosdroid.parallaxdetailrcv.ExampleUnitTest" time="0.001">
-    <failure message="java.lang.AssertionError: expected:&lt;2&gt; but was:&lt;4&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;2&gt; but was:&lt;4&gt;
+    <failure message="java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;4&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;3&gt; but was:&lt;4&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
 	at org.junit.Assert.assertEquals(Assert.java:645)

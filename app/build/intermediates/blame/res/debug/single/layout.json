@@ -8,12 +8,12 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/layout/design_navigation_item_separator.xml"
-    },
-    {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
@@ -44,12 +44,12 @@
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/content_main.xml",
-        "source": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/src/main/res/layout/content_main.xml"
-    },
-    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/item_list_food.xml",
         "source": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/src/main/res/layout/item_list_food.xml"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/src/main/res/layout/content_main.xml"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -60,20 +60,20 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/309c7f9b2ce20ddaea374a527aaceeb7d364dd1f/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
@@ -88,12 +88,12 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
@@ -152,12 +152,12 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",

@@ -24,12 +24,12 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",

@@ -16,12 +16,12 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
@@ -64,12 +64,12 @@
         "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
@@ -140,12 +140,12 @@
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
         "source": "/home/carlos/.android/build-cache/47c3f4ce4b222a1acc4115855314cd290bf5dbeb/output/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/carlosleonardocamilo/Documents/AndroidProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/carlosleonardocamilo/.android/build-cache/bdb5e1a930c09b7579f0c05e098a94635939a13a/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/carlos/Documents/AndroidStudioProjects/android-parallax_detail_rcv/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",

@@ -20,7 +20,7 @@ public class ExampleUnitTest {
     }
     @Test
     public void addition_isCorrect3() throws Exception {
-        assertEquals(4, 2 + 2);
+        assertEquals(3, 2 + 2);
     }
     @Test
     public void addition_isCorrect4() throws Exception {
